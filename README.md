@@ -13,11 +13,11 @@
 
 - 🔭 I'm currently building **[Maggi Thela](https://maggithelasite.web.app/index.html)** - bringing delicious experiences to the digital world
 - 🌱 I'm diving deep into **backend development for Blockchain Technology** and exploring the decentralized ecosystem
-- 👯 I'm excited to collaborate on **VITas** and other innovative blockchain projects
+- 👯 I'm excited to collaborate on innovative blockchain projects
 - 🤝 I'm seeking collaborators and contributors for **[Maggi Thela](https://maggithelasite.web.app/index.html)** - let's build something amazing together!
 - 💬 Let's talk about **blockchain technology, technical writing, and creative design**
 - 📫 Reach out to me at **sreyanair0609@gmail.com**
-- ⚡ Fun fact: **[Add a fun fact about yourself]**
+- ⚡ Fun fact: **I am a music producer as well**
 
 ---
 
@@ -34,35 +34,34 @@
 ## 🎯 2025 Goals
 
 - [ ] Master advanced smart contract development
-- [ ] Contribute to 5+ open source blockchain projects
+- [ ] Work on my DSA skills
 - [ ] Launch 2 major blockchain applications
 - [ ] Speak at a blockchain conference
-- [ ] [Add your personal goals]
+- [ ] Improve my lifestyle
 
 ---
 
 ## 💼 Experience
 
-### 🔹 **[Job Title]** at **[Company Name]**
-*[Duration]*
-- Key responsibility 1
+### 🔹 **[Blockchain Co-Lead]** at **[GDSC-VIT Bhopal]**
+*[https://drive.google.com/file/d/1xRFUCrGC5EU7YnzC6F6gzB9dyIzZEVqH/view?usp=sharing]*
+- Blockchain Event Management
 - Key responsibility 2
 - Technologies used: [List technologies]
 
-### 🔹 **[Previous Role]** at **[Company Name]**
-*[Duration]*
-- Achievement 1
+### 🔹 **Junior ML Engineer** at **[Omdena- VIT Bhopal]**
+*https://drive.google.com/file/d/1yEtCxSQvyDlFKY-bdjGbSc3RQSgLz6t9/view?usp=sharing*
+- BRTS Chatbot Development
 - Achievement 2
 
 ---
 
 ## 🎓 Education
 
-**[University Name]**  
-*[Degree] in [Field] | [Duration]*
-- Relevant Coursework: [List courses]
-- GPA: [If strong]
-- Projects: [Notable academic projects]
+**[VIT Bhopal University]**  
+*[BTech] in [CSE] | [2022-2026]*
+- GPA: [8.6]
+- Projects: [https://vaultverse-8ce06.web.app/]
 
 ---
 
@@ -128,6 +127,15 @@
 ## 🌟 Featured Projects
 
 <div align="center">
+
+### 🔗 [VaultVerse](https://vaultverse-8ce06.web.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nairsreya&repo=project-repo&theme=radical)](https://github.com/nairsreya/project-repo)
+
+*VaultVerse is your digital crypto bank, where you can deposit ERC20 tokens, earn rewards like interest, and withdraw anytime—all on a secure and transparent blockchain platform.*
+
+**Tech Stack:** [Technologies used]  
+**Features:** Feature 1 • Feature 2 • Feature 3
+
   
 ### 🍜 [Maggi Thela](https://maggithelasite.web.app/index.html)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nairsreya&repo=maggi-thela&theme=radical)](https://github.com/nairsreya/maggi-thela)
@@ -138,15 +146,6 @@
 **Features:** Real-time ordering • Payment integration • User dashboard
 
 ---
-
-### 🔗 [Project Name 2]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nairsreya&repo=project-repo&theme=radical)](https://github.com/nairsreya/project-repo)
-
-*Brief description of your second project*
-
-**Tech Stack:** [Technologies used]  
-**Features:** Feature 1 • Feature 2 • Feature 3
-
 </div>
 
 ---
