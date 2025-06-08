@@ -3,8 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nairsreya&label=Profile%20views&color=0e75b6&style=flat" alt="nairsreya" />
-  <img src="https://img.shields.io/github/followers/nairsreya?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/nairsreya?label=Stars&style=social" alt="GitHub stars" />
 </p>
 
 ---
